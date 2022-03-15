@@ -1,2 +1,2 @@
 # DRL
-Deep reinforecement learning 
+Deep reinforecement learning based on gym and  implemented on windows
